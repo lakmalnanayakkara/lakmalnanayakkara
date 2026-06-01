@@ -137,8 +137,8 @@ const pasindu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakmalnanayakkara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakmalnanayakkara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakmalnanayakkara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakmalnanayakkara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/> -->
 
 </div>
 
@@ -154,7 +154,7 @@ const pasindu = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lakmalnanayakkara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=lakmalnanayakkara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6](https://github.com/lakmalnanayakkara?achievement=yolo&tab=achievements))](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
