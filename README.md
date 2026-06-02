@@ -154,10 +154,13 @@ const pasindu = {
 
 <div align="center">
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=lakmalnanayakkara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6](https://github.com/lakmalnanayakkara?achievement=yolo&tab=achievements))](https://github.com/ryo-ma/github-profile-trophy)
+| 🦈 Pull Shark | 🤠 Quickdraw | 🎉 YOLO |
+|:---:|:---:|:---:|
+| [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/lakmalnanayakkara?achievement=pull-shark&tab=achievements) | [![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png)](https://github.com/lakmalnanayakkara?achievement=quickdraw&tab=achievements) | [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/lakmalnanayakkara?achievement=yolo&tab=achievements) |
+| **Pull Shark ×2** | **Quickdraw** | **YOLO** |
+| Opened PRs that got merged | Closed issue/PR within 5 min | Merged a PR without review |
 
 </div>
-
 ---
 
 ## 🌱 Currently Exploring
