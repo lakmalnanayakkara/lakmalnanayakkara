@@ -24,10 +24,10 @@
 const pasindu = {
   name:       "Pasindu Lakmal Nanayakkara",
   location:   "Sri Lanka 🇱🇰",
-  role:       "Associate Software Engineer @ Enhanzer (Pvt) Ltd",
+  role:       "Associate Software Engineer @ Newnop (Pvt) Ltd",
   education:  "BSc (Hons) Computer Science in Data Science — University of Kelaniya",
-  focus:      ["Enterprise ERP Systems", "Microservices Architecture", "AI & ML"],
-  currently:  "Building scalable ERP modules with .NET 8 & Angular",
+  focus:      ["Enterprise Application Development", "Microservices Architecture", "AI & ML"],
+  currently:  "Building scalable Enterprise Application with .NET",
   passions:   ["Clean Architecture", "DDD & CQRS", "Data-Driven Solutions"],
   funFact:    "I reduce bugs by 90% and memory leaks by 80% — one pattern at a time 🔧",
 };
@@ -100,7 +100,12 @@ const pasindu = {
 ## 💼 Experience Timeline
 
 ```
-🔵 Jul 2025 – Present ─────────────────────────────────────────────────────────
+🟣 Jun 2026 – Present ─────────────────────────────────────────────────────────
+   Associate Software Engineer @ Newnop (Pvt) Ltd
+   └─ Enterprise app development: DT Korea Web Simulator
+   └─ Angular, .NET, ASP.NET, MSSQL
+
+🔵 Jul 2025 – Jun 2026 ─────────────────────────────────────────────────────────
    Associate Software Engineer @ Enhanzer (Pvt) Ltd
    └─ Building enterprise ERP modules (eZuite V5) with .NET 8 & Angular
    └─ Microservices, DDD, CQRS, Azure, Docker, Kubernetes
